@@ -1,6 +1,7 @@
-﻿Lista anime które niedługo się pojawią w 2020 i kolejnych latach.
+Lista anime które niedługo się pojawią w 2020 i kolejnych latach.
+Uwaga: Ta lista może nie uwzględniać wszystkich anime
 
-Data aktualizacji listy: 23:02 11.10.2020
+Data aktualizacji listy: 22:30 16.10.2020
 
 -------------
 Data: 04.2020
@@ -135,6 +136,10 @@ Higurashi no Naku Koro ni Gou
 Status: Emitowane
 Data emisji: 01.10.2020
 
+Majo no Tabitabi
+Status: Emitowane
+Data emisji: 02.10.2020
+
 Tonikaku Kawaii
 Status: Emitowane
 Data emisji: 03.10.2020
@@ -151,6 +156,10 @@ Haikyuu!!: To the Top 2nd Season
 Status: Emitowane
 Data emisji: 03.10.2020
 
+Jujutsu Kaisen
+Status: Emitowane
+Data emisji: 03.10.2020
+
 Kami-tachi ni Hirowareta Otoko
 Status: Emitowane
 Data emisji: 04.10.2020
@@ -163,6 +172,10 @@ Mahouka Koukou no Rettousei: Raihousha-hen
 Status: Emitowane
 Data emisji: 04.10.2020
 
+Maou-jou de Oyasumi
+Status: Emitowane
+Data emisji: 06.10.2020
+
 Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
 Status: Emitowane
 Data emisji: 07.10.2020
@@ -174,6 +187,18 @@ Data emisji: 07.10.2020
 Noblesse
 Status: Emitowane
 Data emisji: 08.10.2020
+
+Akudama Drive
+Status: Emitowane
+Data emisji: 08.10.2020
+
+Kamisama ni Natta Hi
+Status: Emitowane
+Data emisji: 11.10.2020
+
+Taisou Samurai
+Status: Emitowane
+Data emisji: 11.10.2020
 
 Magatsu Wahrheit
 Status: Zapowiedź
