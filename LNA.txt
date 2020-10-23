@@ -1,7 +1,7 @@
 Lista anime które niedługo się pojawią w 2020 i kolejnych latach.
 Uwaga: Ta lista może nie uwzględniać wszystkich anime
 
-Data aktualizacji listy: 23:00 18.10.2020
+Data aktualizacji listy: 00:05 24.10.2020
 
 -------------
 Data: 04.2020
@@ -201,11 +201,11 @@ Status: Emitowane
 Data emisji: 11.10.2020
 
 Magatsu Wahrheit
-Status: Zapowiedź
+Status: Emitowane
 Data emisji: 13.10.2020
 
 Kimetsu no Yaiba: Mugen Ressha-hen
-Status: Zapowiedź
+Status: Zakończone
 Data emisji: 16.10.2020
 
 -------------
@@ -244,11 +244,19 @@ Gintama: The Final
 Status: Zapowiedź
 Data emisji: 08.01.2021
 
+World Trigger 2nd Season
+Status: Zapowiedź
+Data emisji: 09.01.2021
+
 Log Horizon: Entaku Hōkai
 Status: Zapowiedź
 Data emisji: 13.01.2021
 
 Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari
+Status: Zapowiedź
+Data emisji: 01.2021
+
+Mushoku Tensei: Isekai Ittara Honki Dasu
 Status: Zapowiedź
 Data emisji: 01.2021
 
@@ -288,6 +296,10 @@ Data emisji: 01.2021
 Data: 04.2021
 -------------
 
+Edens Zero
+Status: Zapowiedź
+Data emisji: 04.2021
+
 Yuukoku no Moriarty 2nd part
 Status: Zapowiedź
 Data emisji: 04.2021
@@ -312,6 +324,10 @@ Data emisji: 07.2021
 Data: 2021
 ----------
 
+Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future
+Status: Zapowiedź
+Data emisji: 2021
+
 Ryouma! The Prince of Tennis Shinsei Gekijouban Tennis no Ouji-sama
 Status: Zapowiedź
 Data emisji: 2021
@@ -329,10 +345,6 @@ Status: Zapowiedź
 Data emisji: 2021
 
 Kaifuku Jutsushi no Yarinaoshi
-Status: Zapowiedź
-Data emisji: 2021
-
-Mushoku Tensei: Isekai Ittara Honki Dasu
 Status: Zapowiedź
 Data emisji: 2021
 
@@ -368,11 +380,11 @@ Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Paladin; Agateram
 Status: Zapowiedź
 Data emisji: Nie ustalono
 
-Bleach: Chitose Kessen-hen
+Tate no Yuusha no Nariagari 3rd Season
 Status: Deklaracja
 Data emisji: Nie ustalono
 
-Edens Zero
+Bleach: Chitose Kessen-hen
 Status: Deklaracja
 Data emisji: Nie ustalono
 
@@ -393,10 +405,6 @@ Status: Deklaracja
 Data emisji: Nie ustalono
 
 Baki - Son of Ogre
-Status: Deklaracja
-Data emisji: Nie ustalono
-
-Shin Tennis no Ouji-sama: Hyoutei vs Rikkai - Game of Future
 Status: Deklaracja
 Data emisji: Nie ustalono
 
