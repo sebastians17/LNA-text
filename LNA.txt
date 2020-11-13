@@ -1,7 +1,7 @@
 Lista anime które niedługo się pojawią w 2020 i kolejnych latach.
 Uwaga: Ta lista może nie uwzględniać wszystkich anime
 
-Data aktualizacji listy: 21:19 11.11.2020
+Data aktualizacji listy: 00:55 14.11.2020
 
 -------------
 Data: 04.2020
@@ -240,13 +240,25 @@ Data emisji: 07.12.2020
 Data: 01.2021
 -------------
 
+Nanatsu no Taizai: Fundo no Shinpan
+Status: Zapowiedź
+Data emisji: 06.01.2021
+
 Gintama: The Final
+Status: Zapowiedź
+Data emisji: 08.01.2021
+
+Jaku-Chara Tomozaki-kun
 Status: Zapowiedź
 Data emisji: 08.01.2021
 
 World Trigger 2nd Season
 Status: Zapowiedź
 Data emisji: 09.01.2021
+
+Tensei Shitara Slime Datta Ken 2nd Season
+Status: Zapowiedź
+Data emisji: 12.01.2021
 
 Log Horizon: Entaku Hōkai
 Status: Zapowiedź
@@ -264,23 +276,11 @@ Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2
 Status: Zapowiedź
 Data emisji: 01.2021
 
-Jaku-Chara Tomozaki-kun
-Status: Zapowiedź
-Data emisji: 01.2021
-
 Ore Dake Haireru Kakushi Dungeon: Kossori Kitaete Sekai Saikyou
 Status: Zapowiedź
 Data emisji: 01.2021
 
-Nanatsu no Taizai: Fundo no Shinpan
-Status: Zapowiedź
-Data emisji: 01.2021
-
-Tensei Shitara Slime Datta Ken 2nd Season
-Status: Zapowiedź
-Data emisji: 01.2021
-
-Dr. Stone: Stone Wars 
+Dr. Stone: Stone Wars
 Status: Zapowiedź
 Data emisji: 01.2021
 
@@ -392,12 +392,12 @@ Data emisji: Prawdopodobnie w 2022 - 2023 roku
 Data: Nie ustalono
 ------------------
 
-Rikei ga Koi ni Ochita no de Shoumei Shite Mita. 2
+Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Paladin; Agateram
 Status: Zapowiedź
 Data emisji: Nie ustalono
 
-Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Paladin; Agateram
-Status: Zapowiedź
+Rikei ga Koi ni Ochita no de Shoumei Shite Mita. 2
+Status: Deklaracja
 Data emisji: Nie ustalono
 
 Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren`ai Zunousen 3
